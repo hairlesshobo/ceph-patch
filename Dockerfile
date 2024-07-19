@@ -1,4 +1,4 @@
-FROM quay.io/ceph/ceph:v18.2.1
+FROM quay.io/ceph/ceph:v18.2.2
 
 LABEL org.opencontainers.image.source https://github.com/nanderson94/ceph-patch
 
